@@ -1,0 +1,79 @@
+.fondo-presentacion{
+	background-color: #AB9828;
+}
+
+.panel-HT {
+  /*margin-bottom: 20px;*/
+  /*background-color: #fff;*/
+  background-color: #AB9828;
+  /*border: 1px solid transparent;*/
+ /* border-radius: 4px;*/
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.panel-HT-default {
+  /*border-color: #ddd;*/
+}
+
+.panel-HT-body {
+  padding: 0px;
+}
+
+.panel-HT-footer {
+  padding: 10px 15px;
+  /*background-color: #f5f5f5;*/
+  background-color: #325694;
+  /*border-top: 1px solid #ddd;*/
+  /*border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;*/
+  color: #fff;
+
+}
+
+.titulo-presentacion{
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.blanco{
+	background-color: #fff;
+}
+
+.titulo-lista-reproduccion{
+	 padding: 10px 15px;
+  /*background-color: #f5f5f5;*/
+  /*border-top: 1px solid #ddd;*/
+  /*border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;*/
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.lista-produccion{
+	height: 60%;
+	overflow-y:scroll; 
+}
+
+.espacio{
+	padding-top: 4%;
+}
+
+blockquote.produccion {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+ /* border-left: 5px solid #eee;*/
+  border-left: 2px solid #C3C3C3;
+  color: #487FAB;
+  font-family: "neue-pro";
+  letter-spacing: 0px;
+}
+
+blockquote .titulo-produccion{
+  font-size: 13.5px;
+  line-height: 10px;
+}
+blockquote .hora{
+	font-size: 20.5px;
+}

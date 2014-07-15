@@ -1,0 +1,11 @@
+.titulo-lista{
+	font-size: 20px;
+}
+
+.entry-content .mejs-container .mejs-controls {
+    background: #932;
+}
+audio{
+	width: 100%;
+	visibility: 100%;
+}
